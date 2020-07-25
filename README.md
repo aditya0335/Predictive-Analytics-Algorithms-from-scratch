@@ -1,13 +1,16 @@
 # DIC-Assignment1
 <p>The objective of this assignment is to get started with Predictive Analytics. The goals of the assessment is to implement a predictive analytics algorithm from scratch and to create a Scikit-learn predictive analytics pipeline and perform visualization using Matplotlib.</p>
-<pre></pre>
 <hr />
 PART - 1 Implementation of Machine Learning Algorithms
+<hr />
 ● Implement Supervised Learning algorithms K-NearestNeighbour and Random Forest
+<hr />
 ● Implement Dimensionality Reduction using PCA
+<hr />
 ● Implement K-Means Clustering
-● Implement Evaluation measure Accuracy, Recall, Precision, Within cluster Sum of
-squares
+<hr />
+● Implement Evaluation measure Accuracy, Recall, Precision, Within cluster Sum of squares.
+<hr />
 The implementation should only use NumPy and Pandas as external libraries. The implementation should be within the definition of the functions in the predictive_analytics.py file. Any utility function should be defined within its scope.
 Evaluation - Total of 55 Points
 ● Function implementing K-NearestNeighbour algorithm ( 5 Points )
