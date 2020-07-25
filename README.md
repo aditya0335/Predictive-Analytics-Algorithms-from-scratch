@@ -11,11 +11,7 @@ PART - 1 Implementation of Machine Learning Algorithms
 
  - Implement Evaluation measure Accuracy, Recall, Precision, Within cluster Sum of squares.
 
-The implementation should only use NumPy and Pandas as external libraries. The implementation should be within the definition of the functions in the predictive_analytics.py file. Any utility function should be defined within its scope.
-
-Evaluation - Total of 55 Points
-
-The points are for the correct implementation. This is validated by getting comparable accuracy on the test set with the standard library like Scikit-learn. Make sure that the code is optimized and does not take a long time to run.
+The implementation only use NumPy and Pandas as external libraries. The implementation is within the definition of the functions in the predictive_analytics.py file. Any utility function is defined within its scope.
 
 PART - 2 Scikit-Learn Pipeline for Machine Learning
 
@@ -27,4 +23,4 @@ PART - 2 Scikit-Learn Pipeline for Machine Learning
 
 
 Dataset:-
-You are provided with data.csv along with this document. The data has 48 features and the last column corresponds to the label. Use this to implement your algorithms. Your algorithms will be evaluated on a private test set, and points will be allocated on the basis of the performance on this test set.
+Provided with data.csv along with this document. The data has 48 features and the last column corresponds to the label. Use this to implement your algorithms. Your Algorithms is evaluated on a private test set,accuracy is calculated on the basis of the performance on this test set.
