@@ -1,5 +1,5 @@
 # DIC-Assignment1
-The objective of this assignment is to get started with Predictive Analytics. The goals of the assessment is to implement a predictive analytics algorithm from scratch and to create a Scikit-learn predictive analytics pipeline and perform visualization using Matplotlib.
+The objective of this assignment is to get started with Predictive Analytics. The goals of the assessment is to implement a predictive analytics algorithm from scratch and to create a Scikit-learn predictive analytics pipeline and perform visualization using Matplotlib.</br>
 PART - 1 Implementation of Machine Learning Algorithms
 ● Implement Supervised Learning algorithms K-NearestNeighbour and Random Forest
 ● Implement Dimensionality Reduction using PCA
