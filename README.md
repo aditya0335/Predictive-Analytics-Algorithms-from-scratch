@@ -1,7 +1,7 @@
-# DIC-Assignment1
+## DIC-Assignment1
 <p>The objective of this assignment is to get started with Predictive Analytics. The goals of the assessment is to implement a predictive analytics algorithm from scratch and to create a Scikit-learn predictive analytics pipeline and perform visualization using Matplotlib.</p>
 
-PART - 1 Implementation of Machine Learning Algorithms
+# PART - 1 Implementation of Machine Learning Algorithms
 
  - Implement Supervised Learning algorithms K-NearestNeighbour and Random Forest
 
@@ -13,7 +13,7 @@ PART - 1 Implementation of Machine Learning Algorithms
 
 The implementation only use NumPy and Pandas as external libraries. The implementation is within the definition of the functions in the predictive_analytics.py file. Any utility function is defined within its scope.
 
-PART - 2 Scikit-Learn Pipeline for Machine Learning
+# PART - 2 Scikit-Learn Pipeline for Machine Learning
 
  - Using the Scikit-learn library, implement supervised learning algorithms SVM, Logistic Regression, Decision tree, KNN
  
