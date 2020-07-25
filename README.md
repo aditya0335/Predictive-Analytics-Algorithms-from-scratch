@@ -3,13 +3,13 @@
 
 PART - 1 Implementation of Machine Learning Algorithms
 
- ● Implement Supervised Learning algorithms K-NearestNeighbour and Random Forest
+ - Implement Supervised Learning algorithms K-NearestNeighbour and Random Forest
 
- ● Implement Dimensionality Reduction using PCA
+ - Implement Dimensionality Reduction using PCA
 
- ● Implement K-Means Clustering
+ - Implement K-Means Clustering
 
- ● Implement Evaluation measure Accuracy, Recall, Precision, Within cluster Sum of squares.
+ - Implement Evaluation measure Accuracy, Recall, Precision, Within cluster Sum of squares.
 
 The implementation should only use NumPy and Pandas as external libraries. The implementation should be within the definition of the functions in the predictive_analytics.py file. Any utility function should be defined within its scope.
 
@@ -19,9 +19,11 @@ The points are for the correct implementation. This is validated by getting comp
 
 PART - 2 Scikit-Learn Pipeline for Machine Learning
 
- ● Using the Scikit-learn library, implement supervised learning algorithms SVM, Logistic Regression, Decision tree, KNN
- ● Using the Scikit-learn library create an ensemble model using the voting classifier of the above-mentioned algorithm.
- ● Create visualization using Matplotlib library, of the confusion matrix for each of the 5 classifiers (including the ensemble).
+ - Using the Scikit-learn library, implement supervised learning algorithms SVM, Logistic Regression, Decision tree, KNN
+ 
+ - Using the Scikit-learn library create an ensemble model using the voting classifier of the above-mentioned algorithm.
+ 
+ - Create visualization using Matplotlib library, of the confusion matrix for each of the 5 classifiers (including the ensemble).
 
 
 Dataset:-
